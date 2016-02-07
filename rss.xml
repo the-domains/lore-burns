@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lore Burns]]></title>
+        <description><![CDATA[Lore Burns]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 05:25:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>ABOUT ME</p></article>]]></description>
+            <link>undefinedabout-me/index.html</link>
+            <guid isPermaLink="false">c2a49689-5312-44c4-9472-d0cc0c3b00c0</guid>
+            <pubDate>Sun, 07 Feb 2016 05:24:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
