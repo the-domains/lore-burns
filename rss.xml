@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lore Burns]]></title>
         <description><![CDATA[Lore Burns]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lore-burns/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 05:25:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 05:25:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lore-burns/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Links to My Work]]></title>
+            <description><![CDATA[<article><h1>Links to My Work</h1><p>2014</p></article>]]></description>
+            <link>https://thegrid.ai/lore-burns/links-to-my-work/index.html</link>
+            <guid isPermaLink="false">61d502cb-736b-460b-9c35-84581f217f70</guid>
+            <pubDate>Sun, 07 Feb 2016 05:25:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<article><h1>About Me</h1><p>ABOUT ME</p></article>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <link>https://thegrid.ai/lore-burns/about-me/index.html</link>
             <guid isPermaLink="false">c2a49689-5312-44c4-9472-d0cc0c3b00c0</guid>
             <pubDate>Sun, 07 Feb 2016 05:24:53 GMT</pubDate>
         </item>
